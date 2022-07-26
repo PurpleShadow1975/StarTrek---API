@@ -21,8 +21,7 @@ const aliens = {
     speciesName: "Vulcans",
     homeWorld: "Vulcan",
     features: "Pointy ears, hair on head and face",
-    interestingFact:
-      "Founders of the United Federation of Planets after first contact with Vulcans",
+    interestingFact: "Don't like sharing",
     notableExample: "James T. Kirk, Zephram Cochran, Angela Merkel",
     image:
       "https://static.wikia.nocookie.net/aliens/images/6/68/The_City_on_the_Edge_of_Forever.jpg",
